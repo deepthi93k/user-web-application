@@ -32,13 +32,13 @@
             <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
                 <div class="carousel-inner">
                   <div class="carousel-item active">
-                    <img height="500px" src="images\500px 3.jpg" class="d-block w-100" alt="...">
+                    <img height="500px" src="images\tourism1.jpg" class="d-block w-100" alt="...">
                   </div>
                   <div class="carousel-item">
-                    <img height="500px" src="images\500px.jpg" class="d-block w-100" alt="...">
+                    <img height="500px" src="images\tourism2.jpg" class="d-block w-100" alt="...">
                   </div>
                   <div class="carousel-item">
-                    <img height="500px" src="images\nano2.jpg" class="d-block w-100" alt="...">
+                    <img height="500px" src="images\tourism3.jpg" class="d-block w-100" alt="...">
                   </div>
                 </div>
                 <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-bs-slide="prev">
